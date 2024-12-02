@@ -42,6 +42,19 @@ Open the notebook:
 
     Follow the step-by-step workflow.
 
+
+Conclusion
+
+    From all baseline model, Random forest classifier shows highest test accuracy and F1 score and AUC.
+
+    Baseline model of Random forest and decision tree shows huge difference in train and test accuracy which shows overfitting.
+
+    After cross validation and hyperparameter tunning, XG Boost shows highest test accuracy score of 87.10% and AUC is 0.874.
+
+    Cross validation and hyperparameter tunning certainly reduces chances of overfitting and also increases performance of model.
+
+
+
 Future Scope
 
     Incorporating additional features for better prediction.
