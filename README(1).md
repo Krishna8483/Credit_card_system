@@ -56,14 +56,13 @@ X23 = amount paid in April 2005.
 1. Logistic Regression
 2. Decision Tree Classifier
 3. Random Forest Classifier
-4. Support Vector Machine
-5. Gradient Boosting
-6. XG Boosting
+4. Gradient Boosting
+5. XG Boosting
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 💾 Project Files Description
-This Project includes 1 colab notebook.
+This Project includes 1 colab notebook ipynb file.
 Executable Files:
 Credit-Card-Default-Prediction - Includes Exploratory Data Analysis and all algorithms that are used in this project.
 Output:
