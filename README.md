@@ -62,9 +62,9 @@ X23 = amount paid in April 2005.
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 💾 Project Files Description
-This Project includes 1 colab notebook ipynb file.
+This Project includes 1 ipynb file.
 Executable Files:
-Credit-Card-Default-Prediction - Includes Exploratory Data Analysis and all algorithms that are used in this project.
+Credit-Card-Default-Prediction - Includes Exploratory Data Analysis and all algorithms used in this project.
 Output:
 Google Colab - All the outputs are visible in the provided colab notebook.
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
