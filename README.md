@@ -62,17 +62,16 @@ X23 = amount paid in April 2005.
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 💾 Project Files Description
-This Project includes 1 ipynb file.
+This Project includes 1 .ipynb file.
 Executable Files:
 Credit-Card-Default-Prediction - Includes Exploratory Data Analysis and all algorithms used in this project.
-Output:
-Google Colab - All the outputs are visible in the provided colab notebook.
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📖 Conclusion:
-From all baseline models, the Random forest classifier shows the highest test accuracy F1 score and AUC.
+The Random forest classifier shows the highest test accuracy F1 score and AUC from all baseline models.
 The baseline model of the Random forest and decision tree shows a huge difference in train and test accuracy which shows overfitting.
 After cross-validation and hyperparameter tuning, XG Boost shows the highest test accuracy score of 87.10% and AUC is 0.874.
-Cross-validation and hyperparameter tunning certainly reduce the chances of overfitting and also increase the performance of the model.
+Cross-validation and hyperparameter tunning certainly reduce the chances of overfitting and also increase the model's performance.
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
